@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ratatula_Cliente" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/c4</item>
+    </style>
+
+    <style name="Theme.Ratatula_Cliente" parent="Base.Theme.Ratatula_Cliente" />
+</resources>

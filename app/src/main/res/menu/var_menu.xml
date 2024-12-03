@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/btnLocal"
+        android:icon="@drawable/cellphone"
+        android:title="Local"/>
+
+    <item
+        android:id="@+id/btnPedidos"
+        android:icon="@drawable/eggman"
+        android:title="Pedidos"/>
+    <item
+        android:id="@+id/btnProfile"
+        android:icon="@drawable/password"
+        android:title="Perfil"/>
+</menu>
